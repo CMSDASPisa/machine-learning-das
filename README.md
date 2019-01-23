@@ -36,7 +36,7 @@ Now you should see the JupyterHub home directory. Click on "New" then "Terminal"
 To download the tutorials, type
 
 ```
-git clone https://github.com/FNALLPC/machine-learning-das
+git clone https://github.com/CMSDASPisa/machine-learning-das.git
 ```
 
 Now, in your directory tab, there should be a new directory called `machine-learning-das`. All of the tutorials and exercises are in there. Start by clicking on [`0-setup-libraries.ipynb`](0-setup-libraries.ipynb) and running it.
