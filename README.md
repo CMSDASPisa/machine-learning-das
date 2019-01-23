@@ -45,6 +45,6 @@ Now, in your directory tab, there should be a new directory called `machine-lear
 
 The indico page is: [https://indico.cern.ch/event/758324/](https://indico.cern.ch/event/758324/)
 
-The Mattermost for live support is: [https://mattermost.web.cern.ch/cmsdaspisa2019/channels/shortexerciseml](https://mattermost.web.cern.ch/cmsdaspisa2019/channels/shortexerciseml)
+The Mattermost for live support is: [https://mattermost.web.cern.ch/cmsdaspisa2019/channels/shortexercise-ml](https://mattermost.web.cern.ch/cmsdaspisa2019/channels/shortexercise-ml)
 
 The twiki is: [https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolPisa2019MLExercise](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolPisa2019MLExercise)
