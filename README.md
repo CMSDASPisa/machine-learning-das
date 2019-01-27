@@ -11,7 +11,7 @@ This is a set of tutorials for the CMS Machine Learning Data Analysis School (DA
 ## Main notebooks in this tutorial
 
  0. [`0-setup-libraries.ipynb`](0-setup-libraries.ipynb): setting up libraries using `CMSSW`
- 1. ['1-TMVA_Classification-py.ipynb'](1-TMVA_Classification-py.ipynb): Simple BDT Demonstration with 'TMVA' in Python
+ 1. ['1-TMVA-Classification-py.ipynb'](1-TMVA-Classification-py.ipynb): Simple BDT Demonstration with 'TMVA' in Python
  2. [`2.1-datasets-uproot.ipynb`](2.1-datasets-uproot.ipynb): reading/writing datasets from `ROOT` files with `uproot`
  3. [`3-plotting.ipynb`](3-plotting.ipynb): plotting with `pyROOT` and `matplotlib`
  4. [`4-dense.ipynb`](4-dense.ipynb): building, training, and evaluating a fully connected (dense) neural network in `Keras`
