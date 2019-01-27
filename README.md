@@ -10,16 +10,16 @@ This is a set of tutorials for the CMS Machine Learning Data Analysis School (DA
 
 ## Main notebooks in this tutorial
 
- &nbsp;0.  [`0-setup-libraries.ipynb`](0-setup-libraries.ipynb): setting up libraries using `CMSSW`  
- &nbsp;1.  [`1-TMVA-Classification-py.ipynb`](1-TMVA-Classification-py.ipynb): Simple BDT Demonstration with 'TMVA' in Python  
+ &nbsp;0. &nbsp;[`0-setup-libraries.ipynb`](0-setup-libraries.ipynb): setting up libraries using `CMSSW`  
+ &nbsp;1. &nbsp;[`1-TMVA-Classification-py.ipynb`](1-TMVA-Classification-py.ipynb): Simple BDT Demonstration with 'TMVA' in Python  
  &nbsp;2.  [`2-datasets.ipynb`](2-datasets.ipynb): reading/writing datasets from `ROOT` files with 'root2hdf5'  
  &nbsp;2.1 [`2.1-datasets-uproot.ipynb`](2.1-datasets-uproot.ipynb): Same with notebook 2, but with `uproot`  
- &nbsp;3.  [`3-plotting.ipynb`](3-plotting.ipynb): plotting with `pyROOT` and `matplotlib`  
- &nbsp;4.  [`4-dense.ipynb`](4-dense.ipynb): building, training, and evaluating a fully connected (dense) neural network in `Keras`  
+ &nbsp;3. &nbsp;[`3-plotting.ipynb`](3-plotting.ipynb): plotting with `pyROOT` and `matplotlib`  
+ &nbsp;4. &nbsp;[`4-dense.ipynb`](4-dense.ipynb): building, training, and evaluating a fully connected (dense) neural network in `Keras`  
  &nbsp;4.1 [`4.1-dense-pytorch.ipynb`](4.1-dense-pytorch.ipynb): Same with notebook 4, but with `PyTorch`  
  &nbsp;4.2 [`4.2-dense-bayesian-optimization.ipynb`](4.2-dense-bayesian-optimization.ipynb): Optimize a dense network with Bayesian optimization  
- &nbsp;5.  [`5-preprocessing.ipynb`](5-preprocessing.ipynb): preprocessing CMS open data to build jet-images (optional)  
- &nbsp;6.  [`6-conv2d.ipynb`](6-conv2d.ipynb): building, training, and evaluating a 2D convolutional neural network in `Keras`  
+ &nbsp;5. &nbsp;[`5-preprocessing.ipynb`](5-preprocessing.ipynb): preprocessing CMS open data to build jet-images (optional)  
+ &nbsp;6. &nbsp;[`6-conv2d.ipynb`](6-conv2d.ipynb): building, training, and evaluating a 2D convolutional neural network in `Keras`  
 
 ## Setup
 
