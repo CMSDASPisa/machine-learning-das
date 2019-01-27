@@ -49,6 +49,13 @@ git clone https://github.com/CMSDASPisa/machine-learning-das.git
 
 Now, in your directory tab, there should be a new directory called `machine-learning-das`. All of the tutorials and exercises are in there. Start by clicking on [`0-setup-libraries.ipynb`](0-setup-libraries.ipynb) and running it.
 
+## <span style="color:red">Important Notice</span>
+
+Please shut off notebooks after you are done running them. Leaving too many notebooks open (and kernels running) may drain your memory and cause notebooks to work improperly.
+
+To check which notebooks are currently running, click on the "running" tab under "jupyter at ACCRE" LOGO. Click on the shutdown button on the right of the list of notebooks to shut them down.
+
+
 ## Links
 
 The indico page is: [https://indico.cern.ch/event/758324/](https://indico.cern.ch/event/758324/)
