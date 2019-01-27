@@ -1,5 +1,9 @@
 # CMS Machine Learning Data Analsyis School (DAS) Short Exercise
 
+
+Based on CMSDAS 2019 @LPC Machine Learning Exercise, written by Xavier Duarte
+Editted and expanded by CMSDAS 2019 Pisa Facilitators: Thong Nguyen, Sitong An, Leonardo Giannini.
+
 ## Introduction
 
 This is a set of tutorials for the CMS Machine Learning Data Analysis School (DAS) Short Exercise. They are intended to show you how to build machine learning models in python (`Keras`/`TensorFlow`) and use them in your `ROOT`-based analyses. We will build event-level classifiers for differentiating VBF Higgs and standard model background 4 muon events and jet-level classifiers for differentiating boosted W boson jets from QCD jets.
@@ -7,11 +11,12 @@ This is a set of tutorials for the CMS Machine Learning Data Analysis School (DA
 ## Main notebooks in this tutorial
 
  0. [`0-setup-libraries.ipynb`](0-setup-libraries.ipynb): setting up libraries using `CMSSW`
- 1. [`1.1-datasets-uproot.ipynb`](1-datasets.ipynb): reading/writing datasets from `ROOT` files with `uproot`
- 2. [`2-plotting.ipynb`](2-plotting.ipynb): plotting with `pyROOT` and `matplotlib`
- 3. [`3-dense.ipynb`](3-dense.ipynb): building, training, and evaluating a fully connected (dense) neural network in `Keras`
- 4. [`4-preprocessing.ipynb`](4-preprocessing.ipynb): preprocessing CMS open data to build jet-images (optional)
- 5. [`5-conv2d.ipynb`](5-conv2d.ipynb): building, training, and evaluating a 2D convolutional neural network in `Keras`
+ 1. ['1-TMVA_Classification-py.ipynb'](1-TMVA_Classification-py.ipynb): Simple BDT Demonstration with 'TMVA' in Python
+ 2. [`2.1-datasets-uproot.ipynb`](2.1-datasets-uproot.ipynb): reading/writing datasets from `ROOT` files with `uproot`
+ 3. [`3-plotting.ipynb`](3-plotting.ipynb): plotting with `pyROOT` and `matplotlib`
+ 4. [`4-dense.ipynb`](4-dense.ipynb): building, training, and evaluating a fully connected (dense) neural network in `Keras`
+ 5. [`5-preprocessing.ipynb`](5-preprocessing.ipynb): preprocessing CMS open data to build jet-images (optional)
+ 6. [`6-conv2d.ipynb`](6-conv2d.ipynb): building, training, and evaluating a 2D convolutional neural network in `Keras`
 
 ## Setup
 
@@ -27,7 +32,7 @@ If this is the first time using this JupyterHub, you should see:
 
 Click the "Sign in with Jupyter ACCRE" button. On the following page, select CERN as your identity provider and click the "Log On" button. Then, enter your CERN credentials or use your CERN grid certificate to autheticate. Click "Spawn" to start a "Default ACCRE Image v2" image.
 
-Now you should see the JupyterHub home directory. Click on "New" then "Terminal" in the top right to launch a new terminal. 
+Now you should see the JupyterHub home directory. Click on "New" then "Terminal" in the top right to launch a new terminal.
 
 <p align="center">
   <img src="new_terminal.png" width="200"/>
