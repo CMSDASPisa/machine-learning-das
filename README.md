@@ -4,6 +4,8 @@
 Based on CMSDAS 2019 @LPC Machine Learning Exercise, written by Xavier Duarte
 Editted and expanded by CMSDAS 2019 Pisa Facilitators: Thong Nguyen, Sitong An, Leonardo Giannini.
 
+To refer to the lecture slides: [click here](ML_CMSDASPisa.pdf).
+
 ## Introduction
 
 This is a set of tutorials for the CMS Machine Learning Data Analysis School (DAS) Short Exercise. They are intended to show you how to build machine learning models in python (`Keras`/`TensorFlow`) and use them in your `ROOT`-based analyses. We will build event-level classifiers for differentiating VBF Higgs and standard model background 4 muon events and jet-level classifiers for differentiating boosted W boson jets from QCD jets.
