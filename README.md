@@ -1,4 +1,4 @@
-# CMS Data Analsyis School (DAS) - Machine Learning Short Exercise
+# CMS Data Analysis School (DAS) - Machine Learning Short Exercise
 
 
 Based on CMSDAS 2019 @LPC Machine Learning Exercise, written by Xavier Duarte
